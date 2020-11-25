@@ -1,0 +1,10 @@
+city
+county
+state
+country
+speciality
+units
+customer
+has been contacted by rep
+approved claims
+rejected claims
